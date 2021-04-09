@@ -1,4 +1,7 @@
 # Sass
+
+#Based on the work of Traversy Media
+
 #Operating CSS with superpowers!
 
 #First attempt of sass operations in VScode via built in plugin. 
